@@ -7,6 +7,7 @@ import "@fullcalendar/daygrid/main.css";
 import "@fullcalendar/timegrid/main.css";
 import "@fullcalendar/bootstrap/main.min.css";
 
+console.log("full - calendar plugin")
 document.addEventListener("DOMContentLoaded", function () {
   var calendarEl = document.getElementById("full-calendar");
 
